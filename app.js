@@ -11,6 +11,9 @@ let altekranText = "";
 let üstEkranText="";
 let islem="";
 
+
+
+
 num.forEach((number) => {
   number.onclick = () => {
     //altekranText=number.textContent
